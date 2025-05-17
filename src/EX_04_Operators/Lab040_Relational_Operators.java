@@ -16,13 +16,13 @@ public class Lab040_Relational_Operators {
         boolean c = a > b; // // 10> 30
         System.out.println(c);
 
-        int age_mamitha = 33;
-        int age_pramod = 34;
+        int age_maya = 33;
+        int age_Vino = 34;
 
-        boolean result = age_pramod >= age_mamitha;
+        boolean result = age_Vino >= age_maya;
         System.out.println(result);
 
-        // age_pramod > age_mamitha or age_pramod = age_mamitha
+        // age_Vino > age_maya or age_Vino = age_maya
 
     }
 }
