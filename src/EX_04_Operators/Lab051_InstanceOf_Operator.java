@@ -3,7 +3,7 @@ package EX_04_Operators;
 public class Lab051_InstanceOf_Operator {
     public static void main(String[] args) {
         // New Operator
-        String s1 = new String("Pramod");
+        String s1 = new String("Vino");
         int a = 10;
         // Learn this in OOPs
 
