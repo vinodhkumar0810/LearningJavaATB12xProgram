@@ -1,5 +1,5 @@
 package Tasks;
-public class AgeCategory {
+public class Task_17th_May_AgeCategory {
     public static void main(String[] args) {
         int age = 23;
         // Nested ternary to determine category
