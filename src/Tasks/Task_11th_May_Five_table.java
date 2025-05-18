@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Task1 {
+public class Task_11th_May_Five_table {
       public static void main(String[] args) {
         int num = 5;
 

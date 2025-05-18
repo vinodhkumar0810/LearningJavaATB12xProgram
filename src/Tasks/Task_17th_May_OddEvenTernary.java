@@ -1,5 +1,5 @@
 package Tasks;
-public class OddEvenTernary {
+public class Task_17th_May_OddEvenTernary {
     public static void main(String[] args) {
         int number = 150;
 
