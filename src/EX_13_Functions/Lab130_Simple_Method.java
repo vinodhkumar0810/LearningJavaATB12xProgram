@@ -2,7 +2,7 @@ package EX_13_Functions;
 
 public class Lab130_Simple_Method {
     public static void main(String[] args) {
-        ///= no return type or void does not return any.
+        //= no return type or void does not return any.
         non_return_type_func();
 
         String a = return_type_func();
