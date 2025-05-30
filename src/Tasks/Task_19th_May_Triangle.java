@@ -16,7 +16,11 @@ public class Task_19th_May_Triangle {
         int n2 = scanner.nextInt();
         System.out.println(" N3 = ");
         int n3 = scanner.nextInt();
-        if(n1==n2&&n2==n3)
+        // Check if the sides can form a triangle
+        if (n1 + n2 > n3 && n1 + n3 > n2 && n2 + n3 > n1) {
+            // Classify the triangle
+        }
+            if(n1==n2&&n2==n3)
         {
             System.out.println("The given Triangle is equilateral");
         } else if (n1 == n2 || n1 == n3 || n2 == n3) {
