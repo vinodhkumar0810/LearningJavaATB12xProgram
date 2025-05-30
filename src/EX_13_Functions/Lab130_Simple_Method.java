@@ -23,19 +23,19 @@ public class Lab130_Simple_Method {
         return "pramod";
     }
 
-    static boolean return_boolean(){
-        return true;
-    }
-
-    static float return_float_pi_value(){
-        return 3.14f;
-    }
-
-    static byte return_byte(){
-        return 100;
-    }
-
-    static long return_long(){
-        return 10l;
-    }
+//    static boolean return_boolean(){
+//        return true;
+//    }
+//
+//    static float return_float_pi_value(){
+//        return 3.14f;
+//    }
+//
+//    static byte return_byte(){
+//        return 100;
+//    }
+//
+//    static long return_long(){
+//        return 10l;
+//    }
     }
