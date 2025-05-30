@@ -37,4 +37,3 @@ public class Task_24th_May_Grade {
 
     }
     }
-}

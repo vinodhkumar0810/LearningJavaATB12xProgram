@@ -13,4 +13,3 @@ public class Lab127_DoWhile_REAL {
         }while (number < 0);
     }
     }
-}

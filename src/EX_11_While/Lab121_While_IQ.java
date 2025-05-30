@@ -1,5 +1,7 @@
 package EX_11_While;
 
+import java.util.Scanner;
+
 public class Lab121_While_IQ {
     public static void main(String[] args) {
         // Factorial Program
@@ -42,4 +44,3 @@ public class Lab121_While_IQ {
         System.out.println("factorial is -> "+factorial);
     }
     }
-}

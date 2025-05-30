@@ -39,4 +39,3 @@ public class Lab130_Simple_Method {
         return 10l;
     }
     }
-}

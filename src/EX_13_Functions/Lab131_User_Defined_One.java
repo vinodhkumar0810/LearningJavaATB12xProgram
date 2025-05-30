@@ -13,4 +13,3 @@ public class Lab131_User_Defined_One {
         return first+second;
     }
     }
-}

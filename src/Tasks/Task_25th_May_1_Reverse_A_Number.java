@@ -17,4 +17,3 @@ public class Task_25th_May_1_Reverse_A_Number {
         System.out.println("Reversed number: " + reverse);
     }
     }
-}

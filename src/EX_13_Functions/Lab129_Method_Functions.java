@@ -12,4 +12,3 @@ public class Lab129_Method_Functions {
         System.out.println("Hi");
     }
     }
-}

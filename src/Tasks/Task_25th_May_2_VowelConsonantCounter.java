@@ -31,5 +31,5 @@ public class Task_25th_May_2_VowelConsonantCounter {
         System.out.println("Vowels: " + vowels);
         System.out.println("Consonants: " + consonants);
     }
-    }
+
 }

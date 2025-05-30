@@ -1,5 +1,7 @@
 package EX_13_Functions;
 
+import java.util.Scanner;
+
 public class Lab132_UD_Part1 {
     public static void main(String[] args) {
         // User Defined Functions.
@@ -81,4 +83,3 @@ public class Lab132_UD_Part1 {
         return a+b+c;
     }
     }
-}
