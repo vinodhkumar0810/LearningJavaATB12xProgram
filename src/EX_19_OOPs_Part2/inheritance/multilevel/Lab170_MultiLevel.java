@@ -10,8 +10,8 @@ public class Lab170_MultiLevel {
 
         Son s1 = new Son();
         //Son s2 = new Father();
-        Father f1 = new Son(); // Dynamic Dispatch.
-        GrandFather gf1 = new Son();
+        //Father f1 = new Son(); // Dynamic Dispatch.
+       // GrandFather gf1 = new Son();
         GrandFather gf2 = new Father();
 //        Son s3 = new GrandFather();
     }
