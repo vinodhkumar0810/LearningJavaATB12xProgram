@@ -18,4 +18,3 @@ class A {
         System.out.println("static functionc");
     }
 }
-}
